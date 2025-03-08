@@ -1,4 +1,4 @@
-# **Fine Lock and Modules Installer**
+# **Fine Lock** (samsung only)
 
 ## **Description**
 This project contains **Fine Lock** and its modules. **Fine Lock** is a port of **Good Lock** for older versions of **One UI**, allowing users to customize their Android interface with various modules.
