@@ -1,7 +1,7 @@
-# **Fine Lock**
+# **Fine Lock and Modules Installer**
 
 ## **Description**
-This project contains **Fine Lock** and its modules. **Fine Lock** is an alternative to **Good Lock** for customizing the Samsung **One UI** interface, offering various modules to enhance the device's functionality.
+This project contains **Fine Lock** and its modules. **Fine Lock** is a port of **Good Lock** for older versions of **One UI**, allowing users to customize their Android interface with various modules.
 
 ## **How to Install**
 1. **Download APKs**  
