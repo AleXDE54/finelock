@@ -13,4 +13,8 @@ This project contains **Fine Lock** and its modules. **Fine Lock** is a port of 
    - Follow the on-screen instructions to install **Fine Lock** and the modules.
 
 3. **Use Fine Lock**  
-   Once installed, open **Fine Lock** and enable the desired modules to customize your Android device's interface.
+   Once installed, open **Fine Lock** and choose the desire and installed modules to customize your Android device's interface.
+
+* Official Website: https://finelock.app
+
+* FAQ & Support: https://finelock.app/help
